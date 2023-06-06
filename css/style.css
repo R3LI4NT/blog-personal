@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #191919;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #0A3B87;
+    border-radius: 2px;
+    border: 1px solid #0A3B87;
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: #0E4DAF;
+}
+
+body {
+    background-color: #0B0D1D;
+}
+
+.logo img {
+    height: 60px;
+    transition: 0.7s;
+}
+
+.logo img:hover {
+    transform: rotate(-360deg);
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: 'Londrina Solid', cursive;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+nav ul {
+    list-style: none;
+}
+
+
+header {
+    display: flex;
+    background-color: #070916;
+    justify-content: space-around;
+    padding: 1rem 0;
+    align-items: center;
+    width: 100%;
+}
+
+.line {
+    top: 100px;
+    position: absolute;
+    width: 90%;
+    border-bottom: 2px solid rgba(22,27,55,.4);
+}
+
+header .logo {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+
+nav .nav_list {
+    display: flex;
+    align-items: center;
+}
+
+nav .nav_item {
+    margin: 0 9px;
+}
+
+nav .nav_link {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.nav_link:hover {
+    background-color: #e61c23;
+}
+
+header .header_toggle,.header_close {
+    display: none;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #04060E;
+    height: auto;
+    padding-top: 40px;
+    width: 100vw;
+    color: #fff;
+    z-index: -1;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h3 {
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 1px -2px 1px #000;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.footer-content span {
+    color: #e61c23;
+    font-size: 19px;
+}
+
+.footer-content .quote {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    padding: 10px 0;
+    font-style: italic;
+    color: #DBDBDB;
+}
+
+.footer-content .quote::after {
+    content: '';
+    display: block;
+    padding: 5px 0;
+    border-bottom: 2px solid rgba(22,27,55,.4);
+}
+
+.footer-content .social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 2rem 0;
+}
+
+.footer-content li {
+    margin: 0 10px;
+}
+
+.footer-content li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 19px;
+}
+
+.footer-content .email {
+    color: #fff;
+    transition: 0.2s;
+}
+
+.footer-content .email:hover {
+    color: #E94134;
+}
+
+.footer-content .discord {
+    color: #fff;
+    transition: 0.2s;
+}
+
+.footer-content .discord:hover {
+    color: #7289da;
+}
+
+.footer-content .github {
+    color: #fff;
+    transition: 0.2s;
+}
+
+.footer-content .github:hover {
+    color: #999999;
+}
+
+.footer-content .footer-menu {
+    margin-bottom: 20px;
+}
+
+.footer-menu .items {
+    display: flex;
+    list-style: none;
+}
+
+.footer-menu .items a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    padding: 5px;
+    transition: .3s;
+}
+
+.footer-menu .items a:hover {
+    color: #e61c23;
+    border: 1px solid #e61c23;
+}
+
+.footer-bottom {
+    background: #03040A;
+    width: 100vw;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 13px;
+}
+
+.footer-bottom p {
+    list-style: none;
+    text-align: center;
+    color: #fff;
+}
+
+.footer-bottom a {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+}
+
+.footer-bottom a:hover {
+    text-decoration:underline;
+    text-decoration-color: #e61c23;
+}
+
