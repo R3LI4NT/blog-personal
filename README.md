@@ -2,11 +2,12 @@
 
 No terminado.
 
-![1](https://github.com/R3LI4NT/blog-personal/assets/75953873/cf0cae0a-2897-477e-aa13-eccba62087ac)
+![1](https://github.com/R3LI4NT/blog-personal/assets/75953873/469736fa-e28d-4ed7-999b-b7d6114b7aa3)
 
-![2](https://github.com/R3LI4NT/blog-personal/assets/75953873/b27f0e37-966d-4372-8d05-54a60c41f759)
+![2](https://github.com/R3LI4NT/blog-personal/assets/75953873/72dcffc8-df26-401d-ae06-a96804afc6a4)
 
-![3](https://github.com/R3LI4NT/blog-personal/assets/75953873/3622be6f-92f8-4033-b427-a87ac85cbbf5)
+![3](https://github.com/R3LI4NT/blog-personal/assets/75953873/14666c54-07c4-4510-ad5f-8748404ed6bd)
 
-![4](https://github.com/R3LI4NT/blog-personal/assets/75953873/77844cd3-609b-42c8-a469-4cbaa97d592f)
+![4](https://github.com/R3LI4NT/blog-personal/assets/75953873/df50103b-ebec-413a-b514-143b1097fd16)
+
 
