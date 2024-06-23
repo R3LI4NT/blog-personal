@@ -1,6 +1,6 @@
 # BLOG PERSONAL DE R3LI4NT
 
-Proyecto en abandono.
+➤ https://r3li4nt.github.io/
 
 ![1](https://github.com/R3LI4NT/blog-personal/assets/75953873/469736fa-e28d-4ed7-999b-b7d6114b7aa3)
 
